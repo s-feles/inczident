@@ -1,2 +1,2 @@
 # inczident
-Tutaj się podpisz że byłeś.
+Wpisz coś do pliku bylemtu.txt.
